@@ -1,4 +1,9 @@
 # m14-hw14-west-amy
+##  MY NOTES ON ASSIGNMENT
+
+The Bootstrap Components I used are the carousel and the progress bar.
+
+
 # Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
